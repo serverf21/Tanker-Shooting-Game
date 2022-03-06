@@ -3,7 +3,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-public class Program {
+public class Game {
 static Frame f;
 static Button target,tank;
 static Label timer; //To enable a countdown on the screen
